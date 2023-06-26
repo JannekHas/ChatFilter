@@ -1,0 +1,13 @@
+# Prefix for filtered messages
+prefix: "§7[§6ChatFilter§7] "
+
+# Message that the player recieved when writing a forbidden word
+rejected-message: "§cPlease be friendly on our server!"
+
+# Should the filtered message be shown in the chat
+show-message: true
+
+# List of all forbidden words
+forbidden:
+  - "asshole"
+  - "ahole"
